@@ -1,4 +1,4 @@
-## Hi there 👋 , my name is Rustam
+## Hi there 👋 , my name is Tom
 
 I work as a Staff Engineer at Solarisbank.
 
